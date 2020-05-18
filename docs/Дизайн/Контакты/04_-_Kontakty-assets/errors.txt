@@ -1,0 +1,3 @@
+[2020-04-15 18:39:02] layer "+7 (905) 555-55-55 info@foresttravel.com г. Москва, Рязанский  ": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2020-04-15 18:39:02] layer "+7 (905) 555-55-55 info@foresttravel.com г. Москва, Рязанский п": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2020-04-15 18:39:02] layer "header-inner-bg.jpg": Duplicate path: header-inner-bg.jpg
